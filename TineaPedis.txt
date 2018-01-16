@@ -1,4 +1,5 @@
 Tinea Pedis
+<<<<<<< HEAD
 	Tinea rubrum, Scytalidium 
 	dimidiatum, Scytalidium 
 	hyalinum, rarely candida
@@ -9,4 +10,9 @@ Tinea Pedis
 	Pruritic scaly soles,
 	painful fissures between
 	toes.
+=======
+	Tinea rubrum, rarely candida
+	Sebum is inhibitory, explains
+	predilaction toward sole
+>>>>>>> 5a04f3e14a9003f6f070c3aae82a28fce432c01d
 
