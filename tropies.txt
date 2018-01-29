@@ -1,0 +1,4 @@
+Inotropy	Contraction of myocardium
+Lusitropy	Relaxation of myocardium
+Chronotropy	Rate of firing of SA node
+Dromotropy	Velocity of conduction through AV node
