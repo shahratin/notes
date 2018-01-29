@@ -1,6 +1,6 @@
 Class 1A:	Sodium Channel Blocker		Slows Phase 0 depolarisation in ventricular muscle fibers
 Class 1B:	Sodium Channel Blocker		Shortens Phase 3 repolarisation in ventricular muscle fibers	
-Class 1C:	Sodium Channel Blocker		Markedly slows Phase 0 repolarisation in ventricular muscle fibers
+Class 1C:	Sodium Channel Blocker		Markedly slows Phase 0 depolarisation in ventricular muscle fibers
 
 Class 2:	Adrenoceptor Blocker		Inhibits Phase 4 depolarisation	in SA and AV nodes
 
