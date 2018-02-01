@@ -1,0 +1,31 @@
+Respiratory disease
+	Para-pneumonic effusion
+	Tubercular effusion
+	Empyema
+	Bronchial asthma
+	Acute exacerbation of bronchial asthma
+	COPD
+	Acute exacerbation of COPD
+	Bronchiectasis
+	Cystic fibrosis
+	Upper respiratory tract infections
+		Common cold
+		Acute bronchitis
+		Rhinosunusitis
+		Tonsillitis
+		Influenza
+	Community-acquired pneumonia
+	Aspiration pneumonia
+	Tuberculosis
+	Bronchial carcinoma
+	Sarcoidosis
+	Pneumoconiosis
+	Hypersensitivity pneumonitis
+	Pulmonary thromboembolism
+	Pulmonary hypertension
+	Allergic rhinitis
+	Tracheal obstruction
+	Pneumothorax
+	Pectus excavatum
+	Pectus carinatum
+
