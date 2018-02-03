@@ -8,12 +8,11 @@ Respiratory disease
 	Acute exacerbation of COPD
 	Bronchiectasis
 	Cystic fibrosis
-	Upper respiratory tract infections
-		Common cold
-		Acute bronchitis
-		Rhinosunusitis
-		Tonsillitis
-		Influenza
+	Common cold
+	Acute bronchitis
+	Rhinosunusitis
+	Tonsillitis
+	Influenza
 	Community-acquired pneumonia
 	Aspiration pneumonia
 	Tuberculosis
@@ -28,4 +27,110 @@ Respiratory disease
 	Pneumothorax
 	Pectus excavatum
 	Pectus carinatum
-
+Gastrointestinal and nutritional disorders
+	Acute upper GI haemorrhage
+	Diverticular disease
+	Angiodysplasia
+	Ischaemia due to inferior mesenteric artery occlusion
+	Meckel's diverticulam
+	Haemorrhoids
+	Anal fissure
+	Acute diarrhea
+	Chronic diarrhea
+	Relapsing diarrhea
+	Malabsorption
+	Gastric outflow obstruction
+	Constipation
+	Appendicitis
+	Pancreatitis
+	Diverticulitis
+	Perforation
+	Intestinal obstruction
+	Obesity
+	Pancreatic exocrine insufficiency
+	Refeeding syndrome
+	Vitamin deficiency
+	Anorexia nervosa
+	Aphthous ulceration
+	Squamous carcinoma of the oral cavity
+	Oral thrush
+	Pharyngeal candidiasis
+	Oesophageal candidiasis
+	Parotitis
+	Gastro-oesophageal reflux disease
+	Corrosive oesophagitis
+	Iatrogenic oesophagitis
+	Eosinophilic oesophagitis
+	Pharyngeal pouch
+	Achalasia of the oesophagus
+	Oesophageal spasm
+	Systemic sclerosis
+	Submucosal fibrosis of oesophagus
+	Post-cricoid web
+	Stricture oesophagus
+	Carcinoma oesophagus
+	Perforation of oesophagus
+	Gastritis
+	Peptic ulcer disease
+	Zollinger-Ellison syndrome
+	Functional dyspepsia
+	Functional vomiting
+	Gastroparesis
+	Gastric carcinoma
+	Gastric lymphoma
+	Coeliac disease
+	Dermatitis herpetiformis
+	Tropical sprue
+	Blind loop syndrome
+	Whipple's disease
+	Short bowel syndrome
+	Radiation enteritis
+	Radiation proctocolitis
+	Protein-losing enteropathy
+	Meckel's diverticulum
+	Travellers' diarrhoea
+	Giardiasis
+	Amoebiasis
+	Abdominal tuberculosis
+	GI stromal tumours
+	Familial adenomatous polyposis
+	Peutz-jeghers syndrome
+	Adenocarcinoma
+	Carcinoid tumours
+	Lymphoma 
+	Acute pancreatitis
+	Chronic pancreatitis
+	Annular pancreas
+	Cystic fibrosis
+	Pancreatic carcinoma
+	Pancreatic neuro-endocrine tumour
+	Inflammatory bowel disease
+	Irritable bowel syndrome
+	Acute small bowel ischaemia
+	Acute colonic ischaemia
+	Chronic mesenteric ischaemia
+	Colorectal adenoma
+	Familial adenomatous polyposis
+	Peutz-jeghers syndrome
+	Colorectal cancer
+	Diverticulosis
+	Simple constipation
+	Severe idiopathic constipation
+	Faecal impaction
+	Melanosis coli
+	Laxative misuse syndrome
+	Hirschprung's disease
+	Acquired megacolon
+	Acute colonic pseudo-obstruction
+	Faecal incontinence
+	Haemorrhoids
+	Pruritus ani
+	Solitary rectal ulcer syndrome
+	Anal fissure
+	Anorectal abscess
+	Anorectal fistulae
+	Endometriosis
+	Peritonitis
+	Tumours in peritoneal cavity
+	Mesothelioma
+Liver and biliary tract disease
