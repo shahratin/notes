@@ -1,0 +1,8 @@
+Etiology:
+Epidemiology:
+Symptoms:
+	May cause headache
+Signs:
+	BP at or above 140/90 mmHg
+Management:
+	
