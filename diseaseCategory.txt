@@ -134,3 +134,71 @@ Gastrointestinal and nutritional disorders
 	Tumours in peritoneal cavity
 	Mesothelioma
 Liver and biliary tract disease
+Cardiovascular disease
+	Cardiogenic shock
+	Heart failure
+	Acute left heart failure
+	Chronic heart failure
+	Cardiac syncope
+	Neurocardiogenic syncope
+	Postural hypotension
+	Palpitation
+	Cardiac arrest
+	Sinus arrhythmia
+	Sinus bradycardia
+	Sinus tachycardia
+	Sick sinus syndrome
+	Atrial ectopic beats
+	Atrial tachycardia
+	Atrial flutter
+	Atrial fibirilation
+	AV nodal re-entry tachycardia
+	Wolff-Parkinson-White syndrome
+	Atrioventricular re-entrant tachycardia
+	Torsades de pointes
+	First degree heart block
+	Second degree heart block(Mobitz tepe I)
+	Second degree heart block(Mobitz tepe II)
+	Complete AV block
+	Complete AV block with Stokes-Adams attack
+	Left bundle branch block
+	Right bundle branch block
+	Stable angina
+	Acute coronary syndrome
+	Intermittent claudication
+	Critical limb ischaemia
+	Diabetic vascular disease
+	Buerger's disease
+	Acute limb ischeamia
+	Abdominal aortic aneurysm
+	Thoracic aortic aneurysm
+	Arotic dissection
+	Hypertension
+	Malignant hypertension
+	Acute rheumatic fever
+	Chronic rheumatic heart disease
+	Mitral stenosis
+	Mitral regurgitation
+	Aortic stenosis
+	Aortic regurgitation
+	Tricuspid stenosis
+	Tricuspid regurgitation
+	Pulmonary stenosis
+	Pulmonary regurgitation
+	Infective endocarditis
+	Persistent ductus arteriosus
+	Coarctation of aorta
+	Atrial septal defect
+	Ventricular septal defect
+	Eisenmenger's syndrome
+	Tetralogy of Fallot
+	Fulminant myocarditis
+	Acute myocarditis
+	Chronic persistent myocarditis
+	Dilated cardiomyopathy
+	Hypertrophic cardiomyopathy
+	Restrictive cardiomyopathy
+	Acute pericarditis
+	Pericardial effusion
+	Chronic constrictive pericarditis
+
