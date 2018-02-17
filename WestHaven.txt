@@ -1,0 +1,26 @@
+Stage		Alteration of consciousness
+_____________________________________________________
+0		No change in personality or
+		   behaviour
+		No asterixis
+_____________________________________________________
+1		Impaired concentration and
+		   attention span
+		Sleep distrubance, slurred speech,
+		   asterixis, agitation or depression
+_____________________________________________________
+2		Lethergy, drowsiness, apathy or
+		   aggression
+		Disorientation, inappropriate
+		   behaviour, slurred speech
+_____________________________________________________
+3		Confusion and disorentation,
+		   bizarre behaviour
+		Drowsiness or stupor
+		Asterixis usually absent
+_____________________________________________________
+4		Comatose with not response to
+		   voice commands
+		Minimal or absent response to
+		   painful stimuli
+_____________________________________________________
